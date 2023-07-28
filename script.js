@@ -172,7 +172,7 @@ function telefonoNumeris(j) {
     }
 }
 
-//Patikrinimas
+//Patikrinimas 
 console.log(telefonoNumeris([6, 2, 3, 4, 5, 8, 4, 7, 1, 9]))
 console.log(telefonoNumeris([3, 2]))
 console.log(telefonoNumeris(5))
